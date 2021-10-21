@@ -1,0 +1,148 @@
+.nav-2 {
+	display: inline-block;
+
+}
+.nav-li {
+	display: inline-block;
+	vertical-align: middle;
+	padding-top: 20px;
+	padding-right: 20px;
+	font-family: Helvetica;
+	font-size: 11px;
+	text-transform: uppercase;
+	color: black;
+}
+.div-header {
+	display: inline-block;
+}
+.girl {
+	display: inline-block;
+	vertical-align: middle;
+}
+.Logo {
+	vertical-align: middle;
+	padding-top: 18px;
+	padding-left: 20px;
+	margin-right: 54px;
+}
+.Container-1 {
+	width: 1200px;
+	margin: 25px auto;
+
+}
+.left {
+	display: inline-block;
+	width: 360px;
+	position: relative;
+	margin-right: 40px;
+}
+.Middle {
+	display: inline-block;
+	width: 360px;
+	position: relative
+	
+}
+.right {
+	display: inline-block;
+	width: 360px;
+	position: relative;
+	margin-left: 40px;
+}
+
+.P-2 {
+	width: 280px;
+	position: absolute;
+	top: 245px;
+	left: 40px;
+	color: #A6ADB4;
+	font-size: 13px;
+	font-family: Acumin Pro Medium;
+}
+.P-1{
+	position: absolute;
+	top: 28px;
+	left: 40px;
+	font-family: Helvetica;
+	font-size: 16px;
+}
+.image-time {
+	position: absolute;
+	bottom: 40px;
+	left: 40px;
+}
+.h1 {
+	font-family: Helvetica;
+	font-size: 24px;
+	margin-bottom: 40px;
+}
+.image-block1 {
+	display: inline-block;
+	width: 760px;
+	position: relative;
+	vertical-align: top;
+	margin-right: 40px;
+}
+.P-3 {
+	position: absolute;
+	left: 308px;
+	top: 194px;
+	color: #FFFFFF;
+	font-family: Helvetica;
+	font-size: 16px;
+}
+.image-block2 {
+	display: inline-block;
+	width: 360px;
+	vertical-align: top;
+}
+.image-left {
+	margin-bottom: 40px;
+}
+.image-right {
+	margin-bottom: 88px;
+}
+.image-right1 {
+	margin-bottom: 102px;
+}
+.bottom-box {
+	width: 1440px;
+	height: 200px;
+	background-color: #A6ADB4;
+	position: relative;
+
+}
+.bottom-left {
+	position: absolute;
+	left: 142px;
+	bottom: 60px;
+}
+.Box-LOGO {
+	display: inline-block;
+	vertical-align: top;
+}
+.nav-1 {
+	display: inline-block;
+	vertical-align: top;
+}
+.Box-LOGO{
+	margin-right: 89px;
+}
+.ul {
+	display: inline-block;
+		font-family: Helvetica;
+		color: #CBD0D3;
+		font-size: 13px;
+		margin-right: 70px;
+	}
+	.P-4 {
+		display: inline-block;
+		vertical-align: top;
+		padding-left: 104.9px;
+		font-family: Helvetica;
+		color: #CBD0D3;
+		font-size: 11px;
+	}
+	.social {
+		vertical-align: top;
+		margin-left:165.2px ;
+	}
